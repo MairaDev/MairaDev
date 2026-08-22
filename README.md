@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou a Maíra! 👋</h1>
-  <p><strong>Desenvolvedora em Formação | Apaixonada por Tecnologia, Lógica e Inovação</strong></p>
+  <p><strong>Desenvolvedora em Formação (iniciante) | Apaixonada por Tecnologia, Lógica e Inovação</strong></p>
 </div>
 
 <br>
