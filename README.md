@@ -35,14 +35,6 @@
 
 <br>
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MairaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=8" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MairaDev&layout=compact&langs_count=6&theme=dracula&border_radius=8" alt="Linguagens mais usadas" />
-</div>
-
-<br>
 
 ### 🌐 Vamos nos Conectar!
 
