@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou a Maíra! 👋</h1>
+  <h1>Olá, eu sou a Maira! 👋</h1>
   <p><strong>Desenvolvedora em Formação | Apaixonada por Tecnologia, Lógica e Inovação</strong></p>
 </div>
 
