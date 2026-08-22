@@ -45,5 +45,6 @@
   <a href="mailto:mairammf@hotmail.com">
     <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-
+  <img src="https://img.shields.io/badge/Discord-marichan0080-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: marichan0080" />
+  </a>
 </div>
