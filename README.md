@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou a Maira! 👋</h1>
+  <h1>Olá, eu sou a Maíra! 👋</h1>
   <p><strong>Desenvolvedora em Formação | Apaixonada por Tecnologia, Lógica e Inovação</strong></p>
 </div>
 
@@ -33,6 +33,14 @@
   <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 </div>
 
+<br>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MairaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=8" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MairaDev&layout=compact&langs_count=6&theme=dracula&border_radius=8" alt="Linguagens mais usadas" />
+</div>
 
 <br>
 
@@ -46,5 +54,6 @@
     <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Discord-marichan0080-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: marichan0080" />
-  </a>
+  <a href="https://youtube.com/channel/UCbIJtoMEG_4YJEac1Sfa28A" target="_blank">
+    
 </div>
